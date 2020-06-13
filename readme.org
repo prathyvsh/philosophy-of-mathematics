@@ -3,8 +3,10 @@
 * Original Works
 
 ** [[https://royalsocietypublishing.org/doi/10.1098/rstl.1886.0002][A memoir on the theory of mathematical form — Kempe (1886)]]
+
 [[./img/theory-of-mathematical-form.png]]
-Work by Kempe that influenced Peirce. Proposes an ontology of units > components > system in Maths.
+
+Work by Kempe that influenced Peirce. Proposes an ontology of units > components > system in Maths. This work also seems like the first one to capture the idea of partially ordered sets.
 
 * Surveys
 
