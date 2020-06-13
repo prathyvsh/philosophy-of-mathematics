@@ -1,0 +1,11 @@
+* Readings on the Philosophy of Mathematics
+
+* Original Works
+
+** [[https://royalsocietypublishing.org/doi/10.1098/rstl.1886.0002][A memoir on the theory of mathematical form]]
+Work by Kempe that influenced Peirce
+
+* Surveys
+
+** [[https://www3.nd.edu/~cfranks/philmathS12.pdf][University of Norte Dame Reading List on Philosophy of Mathematics by Curtis Franks]]
+TODO: Collect good reads from this list and put in original works
