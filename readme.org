@@ -8,6 +8,8 @@
 
 Work by Kempe that influenced Peirce. Proposes an ontology of units > components > system in Maths. This work also seems like the first one to capture the idea of partially ordered sets.
 
+** [[http://web.stanford.edu/group/cslipublications/cslipublications/pdf/1575863332.rissbook.pdf][Representation and Invariance of Scientific Structures - Patrick Suppes]]
+
 * Surveys
 
 ** [[https://www3.nd.edu/~cfranks/philmathS12.pdf][University of Norte Dame Reading List on Philosophy of Mathematics by Curtis Franks]]
