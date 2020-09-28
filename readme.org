@@ -1,5 +1,16 @@
 * Readings on the Philosophy of Mathematics
 
+* On Creativity in Mathematics
+
+** [[https://fabricebaudoin.files.wordpress.com/2013/07/www-ias-ac-in_resonance_feb2000_pdf_feb2000reflections.pdf][Mathematical Creation]]
+Henri Poincaré
+
+** [[https://fabricebaudoin.files.wordpress.com/2013/07/halmos.pdf][Mathematics as a Creative Art]]
+Paul halmos
+
+** [[http://worrydream.com/refs/Hadamard%20-%20The%20psychology%20of%20invention%20in%20the%20mathematical%20field.pdf][The Psychology of Invention in Mathematical Field]]
+Jacques Hadamard
+
 * Original Works
 
 ** [[https://royalsocietypublishing.org/doi/10.1098/rstl.1886.0002][A memoir on the theory of mathematical form — Kempe (1886)]]
