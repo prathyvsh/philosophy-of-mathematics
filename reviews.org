@@ -1,0 +1,161 @@
+* A Sketch for the Philosophy of Mathematics (1981)
+** Saunders Mac Lane
+
+Mathematics as an objective science — N. D. Goodman (1979)
+
+Intuitionism was the child of emphasis on numbers as the starting point of mathematics and on intuition as a basis of topology.
+
+** The Origin of Mathematics
+
+Mathematics begins with puzzles and problems dealing with combinatoric and symbolic aspects of the general human experience. Some of these aspects turn out to be systematic and intrinsic, rather than arbitrary and tied to one context.
+
+They become the stuff of elementary mathematics. From this starting point, the subject has developed to be a deductive analysis of a large number of very different but interlocking formal structures.
+
+Counting: to arithmetic and number theory
+Measuring: to real numbers, calculus, analysis
+Shaping: to geometry, topology
+Forming (as in architecture): to symmetry, group theory
+Estimating: to probability, measure theory, statistics
+Moving: to mechanics, calculus, dynamics
+Calculating: to algebra, numerical analysis
+Proving: to logic
+Puzzling: to combinatorics, number theory
+Grouping: to set theory, combinatorics
+
+Mathematics started from various human activities which suggest objects and operations (addition, multiplication, comparison of size) and thus lead to concepts (prime number, transformation) which are then embedded in formal axiomatic systems (Peano arithmetic, Euclidean geometry, the real number system, field theory, etc.).
+
+Mathematics is formal, but not simply “formalistic” — since the forms studied in mathematics are derived from human activities and used to understand those activities.
+
+Algebra: First evolved to solve equations
+Geometry reduce to algebra
+Euclidean spaces described by vectors in 2, 3, and then n-dimensions
+Vector space, one equipped with a (quadratic) inner product worked in infinite dimensions and served to codify some of the methods of solving functional equations
+Linear transformations acting on these vector spaces could be represented by matrices
+This cropped up in group theory, numerical analysis and number theory.
+Vector spaces over a field were subsumed under modules over a ring.
+Such spaces and modules were needed to measure connectivity in topology
+These topological concepts were borrowed by algebraists to become homological algebra and to settle questions in ring theory and in number theory – or at least in the higher reaches of class field theory.
+
+Groups represented by matrices had extensive applications in physics, while finite groups had an elaborate structure all their own, reflecting both geometry and number theory.
+
+Additional number systems like the complex numbers or the quartenions were impossible, in view of topological arguments – but the p-adic numbers arose from a marriage of algebraic functions and algebraic numbers.
+
+Because of this elaborate interlocking pattern of ideas, each mathematical notion is tied to its empirical origins in multiple ways. As a result, no simplistic description of mathematics is adequate. At each stage of development in mathematics, the structure at issue can be recorded as a formal deductive system. Such a system starts with axioms on a suitable list of undefined terms; in principle, it uses explicit rules of a specified logical system in order to deduce theorems and other conclusions from these axioms.
+
+Mathematics starts from a variety of human activities, disentangles them from a number of notions which are generic and not arbitrary, then formalizes these notions and their manifold interrelations. Thus, in the narrow sense, mathematics studies formal structures by deductive methods which, because of the formal character, require a standard of precision and rigor.
+
+** 3. Absolute Rigor
+
+This use of deductive and axiomatic methods focuses attention on an extraordinary accomplishment of fundamental interest: the formulation of an exact notion of absolute rigor. Such a notion rests on an explicit formulation of the rules of logic and their consequential and meticulous use in deriving from the axioms at issue all subsequent properties, as strictly formulated in theorems. Moreover, each derivation can be tested and understood in its own terms, independent of any reference to examples of the activity or the reality for which the axioms were designed (even though in fact that reality is usually present and often vital in suggesting how the deduction might be made).
+
+This formal character of mathematics may serve to distinguish it form all other types of science. Once the axioms and the rules are fully formulated, everything else is built up from them, without recourse to the outside world, or to intuition, or to experiment. Examinations of texts of theoretical physics, biology, or other sciences clearly indicates a real difference in this regard. Such texts do not hesitate to appeal at any time to experience or intuition, while a mathematical proof stands or falls on its own, without outside reference.
+
+Understanding of absolute rigor has in considerable measure led to the philosophical standpoints of logicism and formalism. In this way, these two standpoints represent an important aspect of mathematical reality. however, these standpoints are one-sided. We emphasize that the choice of axioms, and the determination of directions in which they are to be developed, is in no wise determined by the formal structure, but rather by aspects of the world under study or by portions of the mathematician’s insight or fancy.
+
+This raises an important metaphysical issue: How does it happen that some important facets of the real world can in fact be accurately analyzed by austere deductions from axioms? In other worlds, how does it happen that logic fits the world; how can one account for the extraordinary and unexpected effectiveness of formal mathematics?
+
+** Multiple Models of Reality
+
+Mathematics deals with the construction of a variety of formal models of aspects of the world and of human experience. On the one hand, this means that mathematics is not a direct theory of some underlying platonic reality, but rather an indirect theory of formal aspects of the world (or of reality, if there is such). On the other hand, our thesis emphasizes that mathematics involves a considerable variety of models. The same experience can be modeled mathematically in more than one way.
+
+Such variant models are well known for some basic constructions. The ordinal numbers can be constructed as equivalence classes of well-ordered sets or, following von Neumann, as certain explicit sets, with 0 taken to be the empty set and each positive ordinal the set of all smaller ordinals. Because of this alternative, there is no unique set-theoretic description of the ordinals. However, with either description we get ordinals with the same behavior.
+
+There is a similar variety in the construction of real numbers from rationals. A real number, for Dedekind, is a cut in the rationals. For Cantor or Meray, it is an equivalence class of sets of rational numbers. For Weierstrass, it is an equivalence class of sets of rationals with a bounded sum. With any of these three constructions one obtains a complete ordered field of real numbers, different constructions yielding isomorphic fields. There is no unique set-theoretic model for the reals.
+
+Q. What is the difference between “up to isomorphism“ and “up to canonical isomorphism”?
+
+For many mathematical purposes though, mathematicians use axiomatic systems which have many non isomorphic models. Thus, for group theory, the depth and power of the group axioms lie in part in the fact that these axioms have many non isomorphic models.
+
+** Foundations
+
+In our view, the philosophy of mathematics is directed more at the understanding of the nature of mathematics than at a “foundation” of mathematics. Nevertheless, our emphasis on the fact that finished mathematics is formal is close to questions about foundations.
+
+The clear understanding of formalism in mathematics has led to a rather fixed dogmatic position which reads: Mathematics is what can be done within axiomatic set theory using classical predicate logic.
+
+This is termed as Grand Set Theoretic Foundation.
+
+Russell’s paradox was settled very soon, in 1908, independently and in two different ways, by Russell’s publication of his Theory of Types and by Zermelo’s publication of his Axioms of set theory.
+
+It took a considerable period before this solution and system was shaken down and well formulated through the work of Skolem, Fraenkel, Paul Bernays, and others.
+
+It was not until about 1950 that the Grand Set Theoretic Foundation was finally complete and officially accepted under the slogan which might have read: “Mathematics is exactly that subject which can be developed by logical rules of proof from the Zermelo-Fraenkel axioms for set theory.”
+
+The Grand Set Theoretic Foundation had its philosophical doctrine, a version of Platonism, that the world of sets is that constructed in the standard cumulative hierarchy of all ranked sets.
+
+The hierarchy of sets is presented as a cumulative type theory, with R_alpha as all sets of type alpha or less. The Zermelo-Fraenkel axioms are then (a selection of) the facts true of all sets in this hierarchy. This is sometimes claimed to describe the ultimate Platonic reality which underlies all mathematics.
+
+This grand formulation does succeed in recording a view of mathematical rigor, but by emphasizing this it misses other important points about the nature of mathematics.
+
+We may list various difficulties with the grand foundation as follows:
+1/ It does not adequately describe which are the relevant mathematical structures to be built up from the starting point of set theory.
+
+Some mathematical structures (natural numbers, rational numbers, real numbers, Euclidean geometry) are intended to be unique but other structures are built to have many different models: group, ring, order, and partial order, linear space and module, topological space, measure space. The “Grand Foundation” does not recognize the common notions which appear in different types of structures, as for example the sense in which “universal” constructions (that is, adjoint functors) appear in many different places: in the construction of a vector space on a given set as basis, of a free group on a given set as generators, of the Stone-Čech compactification of a given space and of the tensor product of two vector spaces.
+
+2 / Set theory is largely irrelevant to the practice of most mathematics. Most professional mathematicians never have occasion to use the ZF axioms, while others do not even know them. if they did know the axioms, they would rapidly observe that mots of the mathematics they do could be satisfactorily based on a much weaker set of axioms — say the Zermelo system in which the replacement axiom of Fraenkel is dropped in favor of the weaker comprehension axioms.
+
+Thus, technically, there is not one preferred system of axioms for the set theory used by mathematicians. This, however, is not the real point — which is that in practice set theory is not the ground of all mathematics, but of just one highly specialized branch of mathematics.
+
+The Grand Set Theoretic Foundation of mathematics has other, more technical disadvantages. It does not answer the difficulties presented by the Gödel incompleteness theorem. It is not strong enough to take into account some of the large constructions on the fringe of mathematics. For example, one would like to form the category of all sets (essentially the set of all sets and of all functions between sets). This can be done by speaking of the “class” of all sets. This device, however, will not yield bigger constructions, such as the categories of all categories. That can be managed by a different device: Assume that there is a (Grothendieck) universe containing all (ordinary) sets, build bigger sets out of this universe, and then form the categories of all categories contained in this universe. These devices to make set theory include the fringes seem artificial.
+
+The set-theoretic approach is by no means the only possible foundation for mathematics. Another approach is to formulate axioms not on set membership, but on the composition of functions. This results in an axiomatization of the category of all sets. The resulting axioms (those for an “elementary tops”) describe cartesian products, power sets, and the like, by certain “universal” properties.
+
+The final difficulty with the Grand Foundation is that it does not account for what E. P. Wigner has termed the unreasonable success of mathematics in its applications.
+
+** 6. Cantorian Set Theory
+
+Many students of set theory do not follow what I have called the “Grand Set Theoretic Foundation” but instead follow Cantor to emphasize the intuitive notion of a set as a collection which is a real object in its own right. For them set theory is not subsumed by the ZF axiom system or by any other first-order formal system. It may be studied formally by other means; using infinitary languages or second-order logic.
+
+Such Cantorian sets are real just as real as numbers. Indeed, one might say that number theory is formalized only in parent by Peano’s arithmetic in just the way set theory is formalized, but only in part, by Zermelo-Fraenkel. (There can be true properties of whole numbers not demonstrated in Peano arithmetic.)
+
+** Multiple Models for Set Theory
+By now there are substantially different models of set theory, satisfying one or another special axiom — the axiom of constructibility, Martin’s axiom or the axiom of determinateness.
+
+The striking result of these technical developments is that different models of set theory give different answers to specific mathematical problems. The continuum hypothesis is true on the Gödel axiom of constructibility, but false in certain Cohen models of set theory.
+
+Whitehead’s problem provides another striking example. Depending on the model of set theory chose, the answer to this problem may be yes or no. This is one of many striking cases where explicit mathematical problems have different answers, depending on the model used for set theory.
+
+Whitehead’s problem is undecidable — Paul C. Eklof (1976)
+
+Mathematics, we hold, deals with multiple models of the world It is not subsumed in any one big model or by any one grand system of axioms.
+
+The idea that set theory is relative is not new; it was clearly state for axiomatic set theory by Skolem in 1922.
+
+Einige Bemerkungen zur axiomatische Begründung der Mengenlehre – Thoralf Skolem (1922)
+
+We intend simply to draw some of the philosophical consequences of that relativity. For the Platonist, there is a real world of sets, existing forever, described only approximately by the Zermelo-Fraenkel axioms or by their modifications. It may be that some final insight will give a definite axiom system, but the sets themselves are the underlying mathematical reality.
+
+In our view, such a Platonic world is speculative. It cannot be clearly explained as a matter of fact (ontologically) or as an object of human knowledge (epistemologically). Moreover, such ideal world rapidly become too elaborate; they must display not only the sets but all the other separate structures which mathematicians have described or will discover. The real nature of these structures does not lie in their often artificial construction from set theory, but in their relation to simple mathematical ideas or to basic human activities.
+
+Hence, we hold that mathematics is not the study of intangible Platonic worlds, but of tangible formal systems which have arisen from real human activities.
+
+** Models of Geometry
+
+Space provides a striking example of the multiple variety of mathematical models. The original human experience of space is vague and varied: Space is extensive and hollow, both fixed and the locus of movement. With Euclidean geometry it is analyzed axiomatically as a receptacle: Space is described in terms of the things (lines, triangles, circles) which can be pushed around within it. With non-Euclidean geometry came the possibility of a different deductive model of the “same” space. In a different direction. the description of the plane and the 3-space by means of Cartesian coordinates led to an analysis of much more general figures within space: those given by general algebraic equations or by other functions, including in particular poorly behaved functions (curves without tangents). This analytic approach also presently indicated that those original geometric intuitions of space also applied to space of more than 3 dimensions – and even to infinite dimensional spaces. Here, too, space is apprehended partially in geometric terms, and partially – by vector analysis – in algebraic fashion. Thus there are many mathematical models of space.
+
+Mathematical models of space — Saunders Mac Lane (1980)
+
+The case of topological spaces and manifolds is especially striking. First came the general notion of a metric space, motivated, it seems, by the use of a metric for function spaces for the calculus of variations and for integral equations. Then came a striking discovery: The continuity of a real valued function of on a metric space M can be defined wholly in terms of the open subsets of M. It was this discovery, combined with the study of Riemann surfaces, which led to the definition of topological spaces. This definition represented considerable extension of the notion of geometry.
+
+However, for other parts of geometry one needed algebraic functions or differentiable functions on the space — and these classes of functions (apparently) cannot be described just in terms of their actions on subsets of that space. One must instead specify for each open subset of the space all the good functions (differentiable, analytic, or algebraic, as the case may be) on that subset. These specifications amount to defining  sheaf on the space. In this way, a differentiable manifold can be described as pieces of Euclidean space, pasted together so that the appropriate sheaves match: Similarly for algebraic geometry a “scheme” is described by pasting together suitable affine pieces so that the sheaves match. thus the intuitive idea of a “space“ for differential or algebraic geometry can be adequately formalized only by sophisticated and deep notions, such as those of sheaf theory.
+
+** 9. Breadth, Clarity, and Depth
+
+We hold that logicism, formalism, and Platonism have been too much dominated by the notions of set theory and deductive rigor. A balanced philosophy of mathematics should complement these ideas with breadth, clarity, and depth.
+
+All three become important because of the extent of abstraction in mathematics. Abstraction consists in formulating essential aspects of some subject matter in terms of suitable axioms. Such abstraction can take place in several successive stages, interlocking different branches of mathematics. However, to be well directed or relevant that abstraction needs these three qualities.
+
+The breadth of a mathematical notion refers to the variety of the situations in which it is to apply and to the pertinence and relevance of the abstraction made. It carries also the caution that deductions of theorems are guided not just by rigor but by the intent of the applications or by the origin of the abstraction.
+
+Second, abstraction has increased the need for clarity in presentation; if the object of study is abstract, it must be understood not by its intuitive content but by its precise and abstract description.
+
+Clarity goes beyond the precision of rigor to a clear ordering of ideas. The development of abstract mathematics, especially after 1920, is in this view a reflection of the necessity for such clarity. When geometry was the geometry of a 3d real world, there could be continual appeals to the real world. Now, done in greater generality, it must be done rigorously and exactly; this means also that it must be clear and perspicuous.
+
+The depth of a mathematical notion refers to the way in which that notion gets at the non obvious, more fundamental structures and concepts underlying the problems at issue — as group theory underlies symmetry or as uniform continuity is subtly involved in many questions of real analysis. The study of manifolds in differential geometry and the algebraic geometry offers another example of the discovery of deeper notions. Initially one thinks of a manifold as a suitable smooth sets of points spread out in some given ambient space. Later on one forgets the ambient space and considers the manifold in terms of the well-behaved functions which can be defined on it, as well as the germs of such functions on each point. This study in turn leads to the head o germs of well-behaved functions on the manifold, and so to the deeper ideas of sheaf theory.
+
+The depth of a mathematical notion may well change with time. For example, in the late 19th century the notion of uniform continuity seemed hard. It now seems easier, and is often dismissed as being simply a change in the position of an existential quantifier.
+
+On the basis of this observation, we attempt a definition of mathematics about as follows:
+
+Mathematics consists in the discovery of successive stages of the formal structures underlying the world and human activities in that world, with emphasis on those structures of broad applicability and those reflecting deeper aspects of the world. I might add both internally to mathematics and externally.
+
+In detail, mathematical development uses experience and intuitive insights to discover appropriate formal structures, to make deductive analyses of these structures, and to establish formal interconnections between them. In other words, mathematics studies interlocking structures. Because of the depth and of the distance from immediate concerns, mathematical treatments need be not only rigorous but also endowed with conceptual clarity.
