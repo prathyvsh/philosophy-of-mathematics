@@ -6,13 +6,23 @@
 Henri Poincaré
 
 ** [[https://fabricebaudoin.files.wordpress.com/2013/07/halmos.pdf][Mathematics as a Creative Art]]
-Paul halmos
+Paul Halmos
 
 ** [[http://worrydream.com/refs/Hadamard%20-%20The%20psychology%20of%20invention%20in%20the%20mathematical%20field.pdf][The Psychology of Invention in Mathematical Field]]
 Jacques Hadamard
 
 ** [[https://web.archive.org/web/20191006205202/http://home.deib.polimi.it/schiaffo/TFIS/philofmaths.pdf][Mathematical Models: A Sketch for the Philosophy of Mathematics (1981)]]
 Saunders Mac Lane
+
+* Nature of Mathematics
+
+** [[https://www.degruyter.com/document/doi/10.1515/9783110870299.3/html][The Protean Character of Mathematics]]
+Saunders Mac Lane (1985)
+
+* Structures
+
+** [[https://www2.mat.ulaval.ca/fileadmin/Pages_personnelles_des_profs/hm/H14_Mac_Lane_Phil_Math_1996.pdf][Structure in Mathematics]]
+Saunders Mac Lane (1996)
 
 * Original Works
 
