@@ -24,6 +24,12 @@ Saunders Mac Lane (1985)
 ** [[https://www2.mat.ulaval.ca/fileadmin/Pages_personnelles_des_profs/hm/H14_Mac_Lane_Phil_Math_1996.pdf][Structure in Mathematics]]
 Saunders Mac Lane (1996)
 
+** [[https://ncatlab.org/davidcorfield/files/Nice.pdf][Understanding the Infinite I: Niceness, Robustness, Realism]]
+David Corfield (2010)
+
+** [[https://ncatlab.org/davidcorfield/files/Coalg.pdf][Understanding the Infinite II: Coalgebra]]
+David Corfield (2011)
+
 * Original Works
 
 ** [[https://royalsocietypublishing.org/doi/10.1098/rstl.1886.0002][A memoir on the theory of mathematical form — Kempe (1886)]]
